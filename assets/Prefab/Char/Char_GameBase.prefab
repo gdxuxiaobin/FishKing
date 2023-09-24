@@ -715,7 +715,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 145.57,
+      "width": 144,
       "height": 40
     },
     "_anchorPoint": {
@@ -760,7 +760,7 @@
     "_overflow": 0,
     "_enableWrapText": true,
     "_font": {
-      "__uuid__": "0094b752-a4fe-4a6f-a868-b48821d80f02",
+      "__uuid__": "84581040-b01b-4f6e-a00a-2d9ded513e22",
       "__expectedType__": "cc.BitmapFont"
     },
     "_isSystemFontUsed": false,
@@ -865,6 +865,7 @@
       "__id__": 0
     },
     "fileId": "c96xd+T0FNHLyCgXXmM1hB",
+    "instance": null,
     "targetOverrides": null
   }
 ]

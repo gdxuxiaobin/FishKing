@@ -1,0 +1,143 @@
+{
+    "saveName": "font_1a",
+    "bitMapCfg": [
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_01.png",
+            "char": "0",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_02.png",
+            "char": "1",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_03.png",
+            "char": "2",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_04.png",
+            "char": "3",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_05.png",
+            "char": "4",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_06.png",
+            "char": "5",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_07.png",
+            "char": "6",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_08.png",
+            "char": "7",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_09.png",
+            "char": "8",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_10.png",
+            "char": "9",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_11.png",
+            "char": "+",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_12.png",
+            "char": "-",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_13.png",
+            "char": "*",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_14.png",
+            "char": "/",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_15.png",
+            "char": "!",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_16.png",
+            "char": "@",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_17.png",
+            "char": "#",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_18.png",
+            "char": "$",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_19.png",
+            "char": "%",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_20.png",
+            "char": "&",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_21.png",
+            "char": "(",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_22.png",
+            "char": ")",
+            "width": 200,
+            "height": 250
+        },
+        {
+            "image": "W:\\美术资源\\场景界面UI\\Common\\Font\\font_1a_images\\Font_a_23.png",
+            "char": ":",
+            "width": 200,
+            "height": 250
+        }
+    ]
+}
