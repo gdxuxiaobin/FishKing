@@ -1,0 +1,202 @@
+
+11040_Chiji.png
+size: 1890, 1764
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Daoguang/Elements
+  rotate: false
+  xy: 2, 70
+  size: 479, 210
+  orig: 500, 500
+  offset: 5, 162
+  index: -1
+Splash/Splash00
+  rotate: false
+  xy: 219, 396
+  size: 242, 56
+  orig: 1920, 1080
+  offset: 881, 442
+  index: -1
+Splash/Splash01
+  rotate: false
+  xy: 768, 2
+  size: 609, 88
+  orig: 1920, 1080
+  offset: 694, 443
+  index: -1
+Splash/Splash02
+  rotate: true
+  xy: 1381, 396
+  size: 1083, 131
+  orig: 1920, 1080
+  offset: 481, 443
+  index: -1
+Splash/Splash03
+  rotate: true
+  xy: 1125, 559
+  size: 1203, 135
+  orig: 1920, 1080
+  offset: 389, 444
+  index: -1
+Splash/Splash04
+  rotate: true
+  xy: 858, 450
+  size: 1302, 137
+  orig: 1920, 1080
+  offset: 314, 444
+  index: -1
+Splash/Splash05
+  rotate: true
+  xy: 718, 450
+  size: 1312, 138
+  orig: 1920, 1080
+  offset: 305, 447
+  index: -1
+Splash/Splash06
+  rotate: true
+  xy: 997, 427
+  size: 1335, 126
+  orig: 1920, 1080
+  offset: 283, 446
+  index: -1
+Splash/Splash07
+  rotate: true
+  xy: 1262, 396
+  size: 1366, 117
+  orig: 1920, 1080
+  offset: 264, 446
+  index: -1
+Splash/Splash08
+  rotate: false
+  xy: 2, 282
+  size: 1398, 112
+  orig: 1920, 1080
+  offset: 249, 447
+  index: -1
+Splash/Splash09
+  rotate: true
+  xy: 1514, 348
+  size: 1414, 97
+  orig: 1920, 1080
+  offset: 235, 446
+  index: -1
+Splash/Splash10
+  rotate: true
+  xy: 1613, 338
+  size: 1424, 78
+  orig: 1920, 1080
+  offset: 224, 447
+  index: -1
+Splash/Splash11
+  rotate: true
+  xy: 1693, 320
+  size: 1442, 68
+  orig: 1920, 1080
+  offset: 216, 452
+  index: -1
+Splash/Splash12
+  rotate: true
+  xy: 1763, 305
+  size: 1457, 67
+  orig: 1920, 1080
+  offset: 209, 451
+  index: -1
+Splash/Splash13
+  rotate: true
+  xy: 1832, 280
+  size: 1482, 33
+  orig: 1920, 1080
+  offset: 188, 464
+  index: -1
+Splash/Splash14
+  rotate: true
+  xy: 1867, 276
+  size: 1486, 21
+  orig: 1920, 1080
+  offset: 184, 468
+  index: -1
+Splash/Splash15
+  rotate: false
+  xy: 88, 1751
+  size: 16, 11
+  orig: 1920, 1080
+  offset: 180, 470
+  index: -1
+前手
+  rotate: true
+  xy: 482, 76
+  size: 204, 284
+  orig: 234, 310
+  offset: 22, 24
+  index: -1
+前脚
+  rotate: false
+  xy: 1445, 28
+  size: 277, 167
+  orig: 288, 167
+  offset: 11, 0
+  index: -1
+后手
+  rotate: false
+  xy: 2, 466
+  size: 522, 339
+  orig: 522, 353
+  offset: 0, 14
+  index: -1
+后脚
+  rotate: false
+  xy: 363, 607
+  size: 286, 152
+  orig: 297, 152
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: 180
+  xy: 1056, 92
+  size: 541, 268
+  orig: 541, 268
+  offset: 0, 0
+  index: -1
+死亡之眼
+  rotate: false
+  xy: 2, 1665
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+煎蛋
+  rotate: false
+  xy: 540, 1653
+  size: 166, 109
+  orig: 179, 132
+  offset: 0, 12
+  index: -1
+花
+  rotate: false
+  xy: 77, 396
+  size: 154, 136
+  orig: 154, 136
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 2, 735
+  size: 715, 1027
+  orig: 1367, 1142
+  offset: 281, 38
+  index: -1
+飛雞
+  rotate: false
+  xy: 524, 396
+  size: 142, 137
+  orig: 142, 137
+  offset: 0, 0
+  index: -1
+鸡头
+  rotate: false
+  xy: 524, 396
+  size: 142, 137
+  orig: 142, 137
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,524 @@
+
+12060_Gongzuokuang.png
+size: 2034, 558
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Electricity/Electricity00
+  rotate: false
+  xy: 2, 458
+  size: 36, 38
+  orig: 120, 120
+  offset: 31, 2
+  index: -1
+Electricity/Electricity01
+  rotate: false
+  xy: 120, 10
+  size: 49, 48
+  orig: 120, 120
+  offset: 24, 2
+  index: -1
+Electricity/Electricity03
+  rotate: false
+  xy: 1487, 15
+  size: 90, 70
+  orig: 120, 120
+  offset: 11, 5
+  index: -1
+Electricity/Electricity05
+  rotate: false
+  xy: 816, 74
+  size: 110, 93
+  orig: 120, 120
+  offset: 5, 6
+  index: -1
+Electricity/Electricity06
+  rotate: false
+  xy: 582, 75
+  size: 116, 92
+  orig: 120, 120
+  offset: 3, 9
+  index: -1
+Electricity/Electricity07
+  rotate: false
+  xy: 928, 84
+  size: 117, 83
+  orig: 120, 120
+  offset: 2, 19
+  index: -1
+Electricity/Electricity08
+  rotate: false
+  xy: 368, 59
+  size: 114, 78
+  orig: 120, 120
+  offset: 4, 22
+  index: -1
+Electricity/Electricity09
+  rotate: false
+  xy: 709, 289
+  size: 67, 42
+  orig: 120, 120
+  offset: 49, 44
+  index: -1
+Electricity2/Electricity2_100
+  rotate: false
+  xy: 1614, 404
+  size: 28, 27
+  orig: 120, 120
+  offset: 45, 0
+  index: -1
+Electricity2/Electricity2_101
+  rotate: true
+  xy: 116, 525
+  size: 31, 93
+  orig: 120, 120
+  offset: 42, 0
+  index: -1
+Electricity2/Electricity2_102
+  rotate: true
+  xy: 249, 225
+  size: 38, 101
+  orig: 120, 120
+  offset: 39, 0
+  index: -1
+Electricity2/Electricity2_103
+  rotate: true
+  xy: 244, 19
+  size: 43, 102
+  orig: 120, 120
+  offset: 43, 1
+  index: -1
+Electricity2/Electricity2_104
+  rotate: true
+  xy: 603, 285
+  size: 46, 104
+  orig: 120, 120
+  offset: 37, 2
+  index: -1
+Electricity2/Electricity2_105
+  rotate: true
+  xy: 352, 227
+  size: 36, 78
+  orig: 120, 120
+  offset: 41, 26
+  index: -1
+Electricity2/Electricity2_106
+  rotate: true
+  xy: 432, 228
+  size: 35, 65
+  orig: 120, 120
+  offset: 38, 36
+  index: -1
+Electricity2/Electricity2_107
+  rotate: false
+  xy: 2002, 309
+  size: 29, 73
+  orig: 120, 120
+  offset: 43, 36
+  index: -1
+Electricity2/Electricity2_108
+  rotate: false
+  xy: 266, 555
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electricity/Electricity02
+  rotate: false
+  xy: 266, 555
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electricity/Electricity04
+  rotate: false
+  xy: 266, 555
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electricity2/Electricity2_109
+  rotate: false
+  xy: 266, 555
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electricity2/Electricity2_110
+  rotate: false
+  xy: 539, 282
+  size: 33, 34
+  orig: 120, 120
+  offset: 36, 83
+  index: -1
+ElectricityFire/ElectricityFire00
+  rotate: true
+  xy: 1579, 20
+  size: 65, 95
+  orig: 240, 320
+  offset: 87, 29
+  index: -1
+ElectricityFire/ElectricityFire01
+  rotate: true
+  xy: 700, 75
+  size: 92, 114
+  orig: 240, 320
+  offset: 73, 28
+  index: -1
+ElectricityFire/ElectricityFire02
+  rotate: false
+  xy: 1132, 70
+  size: 150, 139
+  orig: 240, 320
+  offset: 43, 28
+  index: -1
+ElectricityFire/ElectricityFire03
+  rotate: false
+  xy: 1830, 234
+  size: 170, 148
+  orig: 240, 320
+  offset: 31, 28
+  index: -1
+ElectricityFire/ElectricityFire04
+  rotate: true
+  xy: 1858, 384
+  size: 172, 171
+  orig: 240, 320
+  offset: 30, 28
+  index: -1
+ElectricityFire/ElectricityFire05
+  rotate: false
+  xy: 1275, 354
+  size: 173, 202
+  orig: 240, 320
+  offset: 30, 28
+  index: -1
+ElectricityFire/ElectricityFire06
+  rotate: false
+  xy: 603, 333
+  size: 174, 223
+  orig: 240, 320
+  offset: 30, 29
+  index: -1
+ElectricityFire/ElectricityFire07
+  rotate: false
+  xy: 779, 339
+  size: 174, 217
+  orig: 240, 320
+  offset: 30, 34
+  index: -1
+ElectricityFire/ElectricityFire08
+  rotate: false
+  xy: 427, 318
+  size: 174, 238
+  orig: 240, 320
+  offset: 28, 34
+  index: -1
+ElectricityFire/ElectricityFire09
+  rotate: false
+  xy: 999, 348
+  size: 174, 74
+  orig: 240, 320
+  offset: 28, 32
+  index: -1
+ElectricityFire/ElectricityFire10
+  rotate: false
+  xy: 251, 329
+  size: 174, 57
+  orig: 240, 320
+  offset: 28, 37
+  index: -1
+Splash/Splash00
+  rotate: false
+  xy: 327, 389
+  size: 98, 24
+  orig: 768, 432
+  offset: 352, 176
+  index: -1
+Splash/Splash01
+  rotate: false
+  xy: 2, 227
+  size: 245, 36
+  orig: 768, 432
+  offset: 277, 177
+  index: -1
+Splash/Splash02
+  rotate: false
+  xy: 1572, 179
+  size: 434, 53
+  orig: 768, 432
+  offset: 192, 177
+  index: -1
+Splash/Splash03
+  rotate: false
+  xy: 539, 224
+  size: 482, 55
+  orig: 768, 432
+  offset: 155, 177
+  index: -1
+Splash/Splash04
+  rotate: false
+  xy: 1306, 261
+  size: 522, 56
+  orig: 768, 432
+  offset: 125, 177
+  index: -1
+Splash/Splash05
+  rotate: false
+  xy: 779, 281
+  size: 525, 56
+  orig: 768, 432
+  offset: 122, 178
+  index: -1
+Splash/Splash06
+  rotate: false
+  xy: 2, 265
+  size: 535, 51
+  orig: 768, 432
+  offset: 113, 178
+  index: -1
+Splash/Splash07
+  rotate: false
+  xy: 1023, 211
+  size: 547, 48
+  orig: 768, 432
+  offset: 105, 178
+  index: -1
+Splash/Splash08
+  rotate: false
+  xy: 2, 176
+  size: 560, 46
+  orig: 768, 432
+  offset: 99, 178
+  index: -1
+Splash/Splash09
+  rotate: false
+  xy: 564, 169
+  size: 566, 40
+  orig: 768, 432
+  offset: 94, 178
+  index: -1
+Splash/Splash10
+  rotate: false
+  xy: 1284, 145
+  size: 571, 32
+  orig: 768, 432
+  offset: 89, 178
+  index: -1
+Splash/Splash11
+  rotate: false
+  xy: 2, 139
+  size: 578, 28
+  orig: 768, 432
+  offset: 86, 180
+  index: -1
+Splash/Splash12
+  rotate: false
+  xy: 1284, 116
+  size: 584, 27
+  orig: 768, 432
+  offset: 83, 180
+  index: -1
+Splash/Splash13
+  rotate: false
+  xy: 1284, 87
+  size: 593, 14
+  orig: 768, 432
+  offset: 75, 185
+  index: -1
+Splash/Splash14
+  rotate: false
+  xy: 565, 35
+  size: 595, 9
+  orig: 768, 432
+  offset: 73, 187
+  index: -1
+Splash/Splash15
+  rotate: false
+  xy: 253, 551
+  size: 7, 5
+  orig: 768, 432
+  offset: 72, 188
+  index: -1
+Splash2/Splash200
+  rotate: false
+  xy: 211, 534
+  size: 40, 22
+  orig: 180, 160
+  offset: 134, 73
+  index: -1
+Splash2/Splash201
+  rotate: false
+  xy: 170, 321
+  size: 79, 36
+  orig: 180, 160
+  offset: 94, 55
+  index: -1
+Splash2/Splash202
+  rotate: false
+  xy: 1175, 358
+  size: 94, 45
+  orig: 180, 160
+  offset: 76, 50
+  index: -1
+Splash2/Splash203
+  rotate: false
+  xy: 2, 498
+  size: 112, 58
+  orig: 180, 160
+  offset: 55, 46
+  index: -1
+Splash2/Splash204
+  rotate: true
+  xy: 1047, 46
+  size: 121, 72
+  orig: 180, 160
+  offset: 33, 39
+  index: -1
+Splash2/Splash205
+  rotate: false
+  xy: 244, 64
+  size: 122, 73
+  orig: 180, 160
+  offset: 25, 41
+  index: -1
+Splash2/Splash206
+  rotate: false
+  xy: 120, 60
+  size: 122, 77
+  orig: 180, 160
+  offset: 16, 41
+  index: -1
+Splash2/Splash207
+  rotate: false
+  xy: 2, 56
+  size: 116, 81
+  orig: 180, 160
+  offset: 12, 39
+  index: -1
+Splash2/Splash208
+  rotate: false
+  xy: 1284, 3
+  size: 84, 82
+  orig: 180, 160
+  offset: 12, 40
+  index: -1
+Splash2/Splash209
+  rotate: false
+  xy: 955, 347
+  size: 41, 75
+  orig: 180, 160
+  offset: 12, 47
+  index: -1
+Splash2/Splash210
+  rotate: false
+  xy: 262, 553
+  size: 2, 3
+  orig: 180, 160
+  offset: 46, 98
+  index: -1
+图层 121
+  rotate: false
+  xy: 1450, 319
+  size: 163, 237
+  orig: 223, 237
+  offset: 60, 0
+  index: -1
+图层 123
+  rotate: false
+  xy: 2, 329
+  size: 424, 227
+  orig: 424, 227
+  offset: 0, 0
+  index: -1
+图层 124
+  rotate: true
+  xy: 1160, 2
+  size: 66, 119
+  orig: 66, 251
+  offset: 0, 0
+  index: -1
+图层 125
+  rotate: false
+  xy: 1779, 14
+  size: 88, 71
+  orig: 88, 71
+  offset: 0, 0
+  index: -1
+图层 126
+  rotate: true
+  xy: 1676, 8
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1
+图层 127
+  rotate: 270
+  xy: 1601, 396
+  size: 160, 255
+  orig: 160, 255
+  offset: 0, 0
+  index: -1
+图层 128
+  rotate: 270
+  xy: 1861, 39
+  size: 62, 168
+  orig: 67, 183
+  offset: 0, 15
+  index: -1
+图层 129
+  rotate: false
+  xy: 1870, 103
+  size: 162, 74
+  orig: 162, 74
+  offset: 0, 0
+  index: -1
+图层 130
+  rotate: true
+  xy: 1370, 19
+  size: 66, 116
+  orig: 68, 116
+  offset: 0, 0
+  index: -1
+图层 131
+  rotate: false
+  xy: 482, 23
+  size: 86, 114
+  orig: 86, 114
+  offset: 0, 0
+  index: -1
+图层 132
+  rotate: false
+  xy: 1786, 517
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+图层 133
+  rotate: false
+  xy: 171, 13
+  size: 56, 45
+  orig: 58, 45
+  offset: 2, 0
+  index: -1
+图层 134
+  rotate: true
+  xy: 955, 404
+  size: 152, 318
+  orig: 153, 331
+  offset: 0, 13
+  index: -1
+图层 135
+  rotate: false
+  xy: 1778, 320
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+死亡之眼
+  rotate: false
+  xy: 1614, 322
+  size: 162, 74
+  orig: 162, 74
+  offset: 0, 0
+  index: -1
