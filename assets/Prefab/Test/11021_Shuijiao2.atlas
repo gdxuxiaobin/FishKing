@@ -1,0 +1,209 @@
+
+11021_Shuijiao2.png
+size: 856, 1221
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Splash/Splash00
+  rotate: false
+  xy: 377, 515
+  size: 122, 28
+  orig: 960, 540
+  offset: 440, 221
+  index: -1
+Splash/Splash01
+  rotate: true
+  xy: 715, 74
+  size: 305, 45
+  orig: 960, 540
+  offset: 347, 221
+  index: -1
+Splash/Splash02
+  rotate: false
+  xy: 2, 295
+  size: 542, 66
+  orig: 960, 540
+  offset: 240, 221
+  index: -1
+Splash/Splash03
+  rotate: true
+  xy: 550, 611
+  size: 602, 68
+  orig: 960, 540
+  offset: 194, 222
+  index: -1
+Splash/Splash04
+  rotate: true
+  xy: 414, 562
+  size: 651, 69
+  orig: 960, 540
+  offset: 157, 222
+  index: -1
+Splash/Splash05
+  rotate: true
+  xy: 342, 562
+  size: 657, 70
+  orig: 960, 540
+  offset: 152, 223
+  index: -1
+Splash/Splash06
+  rotate: true
+  xy: 485, 545
+  size: 668, 63
+  orig: 960, 540
+  offset: 141, 223
+  index: -1
+Splash/Splash07
+  rotate: true
+  xy: 620, 536
+  size: 683, 59
+  orig: 960, 540
+  offset: 132, 223
+  index: -1
+Splash/Splash08
+  rotate: true
+  xy: 681, 519
+  size: 700, 56
+  orig: 960, 540
+  offset: 124, 223
+  index: -1
+Splash/Splash09
+  rotate: false
+  xy: 2, 244
+  size: 708, 49
+  orig: 960, 540
+  offset: 117, 223
+  index: -1
+Splash/Splash10
+  rotate: false
+  xy: 2, 202
+  size: 712, 40
+  orig: 960, 540
+  offset: 112, 223
+  index: -1
+Splash/Splash11
+  rotate: false
+  xy: 2, 2
+  size: 721, 34
+  orig: 960, 540
+  offset: 108, 226
+  index: -1
+Splash/Splash12
+  rotate: false
+  xy: 2, 38
+  size: 729, 34
+  orig: 960, 540
+  offset: 104, 225
+  index: -1
+Splash/Splash13
+  rotate: true
+  xy: 825, 460
+  size: 741, 17
+  orig: 960, 540
+  offset: 94, 232
+  index: -1
+Splash/Splash14
+  rotate: true
+  xy: 808, 476
+  size: 743, 11
+  orig: 960, 540
+  offset: 92, 234
+  index: -1
+Splash/Splash15
+  rotate: false
+  xy: 2, 1202
+  size: 8, 6
+  orig: 960, 540
+  offset: 90, 235
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 1210
+  size: 26, 9
+  orig: 27, 10
+  offset: 1, 0
+  index: -1
+前手
+  rotate: true
+  xy: 2, 73
+  size: 127, 287
+  orig: 135, 287
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: true
+  xy: 684, 329
+  size: 188, 170
+  orig: 188, 170
+  offset: 0, 0
+  index: -1
+帽子
+  rotate: false
+  xy: 2, 363
+  size: 373, 197
+  orig: 373, 197
+  offset: 0, 0
+  index: -1
+後手
+  rotate: true
+  xy: 290, 74
+  size: 111, 218
+  orig: 111, 218
+  offset: 0, 0
+  index: -1
+枕頭
+  rotate: false
+  xy: 391, 363
+  size: 329, 162
+  orig: 329, 162
+  offset: 0, 0
+  index: -1
+眼睛
+  rotate: false
+  xy: 739, 517
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+脚1
+  rotate: false
+  xy: 2, 762
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+脚2
+  rotate: false
+  xy: 263, 792
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+身體
+  rotate: false
+  xy: 2, 785
+  size: 309, 434
+  orig: 410, 546
+  offset: 101, 3
+  index: -1
+頭
+  rotate: 180
+  xy: 2, 543
+  size: 340, 254
+  orig: 357, 254
+  offset: 17, 0
+  index: -1
+飛行道具
+  rotate: true
+  xy: 762, 55
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+鼻涕泡
+  rotate: false
+  xy: 2, 520
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1

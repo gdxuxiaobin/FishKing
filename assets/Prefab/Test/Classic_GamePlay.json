@@ -1,0 +1,264 @@
+{
+"skeleton": {
+	"hash": "EWrBHwk0v+o",
+	"spine": "3.8-from-4.0-from-4.1.24",
+	"x": -566.01,
+	"y": -672,
+	"width": 1132.02,
+	"height": 1344,
+	"images": "W:/美术资源/场景界面UI/经典模式/GameHUD/GamePlay/Spine/images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Main", "parent": "root" },
+	{ "name": "Black", "parent": "root", "scaleX": 22.6404, "scaleY": 8.6277, "color": "9b9b9b8b" },
+	{ "name": "VS", "parent": "Main" },
+	{ "name": "Down", "parent": "Main", "scaleX": 1.1 },
+	{ "name": "Down1", "parent": "Down" },
+	{ "name": "Down2", "parent": "Down" },
+	{ "name": "Down3", "parent": "Down" },
+	{ "name": "Role", "parent": "Main" },
+	{ "name": "Role1", "parent": "Role" },
+	{ "name": "Role2", "parent": "Role" },
+	{ "name": "Role_Local_1", "parent": "Role1", "y": 98.22 },
+	{ "name": "Role_Local_2", "parent": "Role2", "y": 93.23 },
+	{ "name": "Play", "parent": "root" },
+	{ "name": "Guang", "parent": "Play", "x": -1.79, "scaleX": 1.5, "scaleY": 1.5 }
+],
+"slots": [
+	{ "name": "Black", "bone": "Black", "color": "ffffff64", "attachment": "Black" },
+	{ "name": "Play_Low1", "bone": "Down1", "attachment": "Play_Low1" },
+	{ "name": "Play_Low2", "bone": "Down2", "attachment": "Play_Low2" },
+	{ "name": "Play_Low3", "bone": "Down3", "attachment": "Play_Low3" },
+	{ "name": "Play_VS", "bone": "VS", "attachment": "Play_VS" },
+	{ "name": "Play_Chiji", "bone": "Role_Local_1", "attachment": "Play_Longjuanfeng" },
+	{ "name": "Play_Longjuanfeng", "bone": "Role_Local_2", "attachment": "Play_Chiji" },
+	{ "name": "Guang", "bone": "Guang", "attachment": "Guang" },
+	{ "name": "Text_Play", "bone": "Play", "attachment": "Text_Play" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Black": {
+				"Black": { "width": 50, "height": 50 }
+			},
+			"Guang": {
+				"Guang": { "y": 0.5, "width": 544, "height": 671 }
+			},
+			"Play_Chiji": {
+				"Play_Longjuanfeng": { "y": 0.5, "width": 167, "height": 209 }
+			},
+			"Play_Longjuanfeng": {
+				"Play_Chiji": { "y": 0.5, "width": 267, "height": 210 }
+			},
+			"Play_Low1": {
+				"Play_Low1": { "y": 0.5, "width": 1000, "height": 239 }
+			},
+			"Play_Low2": {
+				"Play_Low2": { "y": 0.5, "width": 1000, "height": 239 }
+			},
+			"Play_Low3": {
+				"Play_Low3": { "y": 0.5, "width": 1000, "height": 239 }
+			},
+			"Play_VS": {
+				"Play_VS": { "y": 0.5, "width": 1000, "height": 239 }
+			},
+			"Text_Play": {
+				"Text_Play": { "width": 300, "height": 148 }
+			}
+		}
+	}
+],
+"animations": {
+	"GamePlay": {
+		"slots": {
+			"Black": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffff64", "curve": "stepped" },
+					{ "time": 0.7667, "color": "ffffff64" },
+					{ "time": 0.9333, "color": "ffffff00" }
+				]
+			},
+			"Guang": {
+				"color": [
+					{ "time": 0.9, "color": "ffffff00" },
+					{ "time": 1.1, "color": "ffffffc7", "curve": "stepped" },
+					{ "time": 1.2333, "color": "ffffffc7" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.9, "name": "Guang" }
+				]
+			},
+			"Play_Chiji": {
+				"color": [
+					{ "time": 0.8667, "color": "ffffffff" },
+					{ "time": 0.9667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3667, "name": "Play_Longjuanfeng" }
+				]
+			},
+			"Play_Longjuanfeng": {
+				"color": [
+					{ "time": 0.8667, "color": "ffffffff" },
+					{ "time": 0.9667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.3667, "name": "Play_Chiji" }
+				]
+			},
+			"Play_Low1": {
+				"color": [
+					{ "time": 0.0667, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.8667, "color": "ffffffff" },
+					{ "time": 0.9667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "Play_Low1" }
+				]
+			},
+			"Play_Low2": {
+				"color": [
+					{ "time": 0.1, "color": "ffffff00" },
+					{ "time": 0.2, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.8667, "color": "ffffffff" },
+					{ "time": 0.9667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1, "name": "Play_Low2" }
+				]
+			},
+			"Play_Low3": {
+				"color": [
+					{ "time": 0.1, "color": "ffffff04" },
+					{ "time": 0.2, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.8667, "color": "ffffffff" },
+					{ "time": 0.9667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.1, "name": "Play_Low3" }
+				]
+			},
+			"Play_VS": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffff00" },
+					{ "time": 0.2667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.7, "color": "ffffffff" },
+					{ "time": 0.8, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.2, "name": "Play_VS" }
+				]
+			},
+			"Text_Play": {
+				"color": [
+					{ "time": 1.2333, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.9, "name": "Text_Play" }
+				]
+			}
+		},
+		"bones": {
+			"Role1": {
+				"translate": [
+					{ "time": 0.3667, "x": -714.45, "y": -87.42 },
+					{ "time": 0.5, "x": -181.63, "y": -87.42 },
+					{ "time": 0.5333, "x": -246.4, "y": -87.42, "curve": "stepped" },
+					{ "time": 0.8333, "x": -246.4, "y": -87.42 },
+					{ "time": 0.8667, "x": -213.99, "y": -87.42 },
+					{ "time": 0.9667, "x": -725.05, "y": -87.42 }
+				]
+			},
+			"Role2": {
+				"translate": [
+					{ "time": 0.3667, "x": 655.03, "y": -70.88 },
+					{ "time": 0.5, "x": 172.31, "y": -70.88 },
+					{ "time": 0.5333, "x": 243.02, "y": -70.88, "curve": "stepped" },
+					{ "time": 0.8333, "x": 243.02, "y": -70.88 },
+					{ "time": 0.8667, "x": 196.02, "y": -70.88 },
+					{ "time": 0.9667, "x": 669.69, "y": -70.88 }
+				]
+			},
+			"VS": {
+				"translate": [
+					{ "time": 0.1667, "y": 829.53 },
+					{ "time": 0.2667, "y": -81.01 },
+					{ "time": 0.3, "curve": "stepped" },
+					{ "time": 0.6667 },
+					{ "time": 0.7, "y": -34.9 },
+					{ "time": 0.8, "y": 825.18 }
+				]
+			},
+			"Down1": {
+				"translate": [
+					{ "time": 0.0667, "x": 17.67, "y": -667.19 },
+					{ "time": 0.1667, "y": -32.4 },
+					{ "time": 0.2, "curve": "stepped" },
+					{ "time": 0.8333 },
+					{ "time": 0.8667, "y": 19.94 },
+					{ "time": 0.9667, "y": -670.62 }
+				]
+			},
+			"Down2": {
+				"translate": [
+					{ "time": 0.1, "x": -465.35 },
+					{ "time": 0.2, "x": 26.48 },
+					{ "time": 0.2333, "x": -12.04 },
+					{ "time": 0.2667, "curve": "stepped" },
+					{ "time": 0.8333 },
+					{ "time": 0.8667, "x": 27.2 },
+					{ "time": 0.9667, "x": -478.2 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1.2 },
+					{ "time": 0.2667 }
+				]
+			},
+			"Down3": {
+				"translate": [
+					{ "time": 0.1, "x": 414.22 },
+					{ "time": 0.2, "x": -30.09 },
+					{ "time": 0.2333, "x": 19.26 },
+					{ "time": 0.2667, "curve": "stepped" },
+					{ "time": 0.8333 },
+					{ "time": 0.8667, "x": -24.93 },
+					{ "time": 0.9667, "x": 414.74 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1.2 },
+					{ "time": 0.2667 }
+				]
+			},
+			"Guang": {
+				"rotate": [
+					{ "time": 0.9 },
+					{ "time": 1.3333, "angle": 50 }
+				]
+			},
+			"Play": {
+				"scale": [
+					{ "time": 0.9, "x": 0.2, "y": 0.2 },
+					{ "time": 1.0333, "curve": "stepped" },
+					{ "time": 1.2333 },
+					{ "time": 1.3333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}
